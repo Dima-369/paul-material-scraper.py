@@ -1,4 +1,4 @@
-# paul-login.py
+# paul-material-scraper.py
 
 Python3 script to download the current term's material from https://paul.uni-paderborn.de
 
